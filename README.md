@@ -5,11 +5,16 @@ SAP BTP CPI - FILTER
 
 ## Filter dados no XML
 
-Este iFlow foi desenvolvido no SAP BTP – Integration Suite (Cloud Integration) com o objetivo de filtrar e transformar os dados. dados para atender às necessidades do negócio.Aqui está um requisito real que abordamos recentemente no SAP CPI.
+Este iFlow foi desenvolvido no SAP BTP – Integration Suite (Cloud Integration).
 
-Visão geral dos requisitos:
+Ao trabalhar com SAP Cloud Integration (CPI), é muito comum utilizar XPath para filtrar mensagens XML.
+Porém, um erro frequente de quem está aprendendo é esperar que o XPath transforme a estrutura do XML, quando na verdade ele apenas seleciona nós.
 
-Precisávamos:1️⃣ Classificar todos os dados dos funcionários que moram em SP. 
+Neste artigo, vamos entender por que o resultado do XPath vem diferente do esperado e qual é a forma correta de resolver isso no CPI.
+
+**Objetivo** Filtrar e transformar os dados do XML
+
+1️⃣ Classificando todos os dados dos funcionários que moram em SP. 
 
 
 ![Capa](imagens/capa-linkedin.png)
