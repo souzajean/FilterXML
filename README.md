@@ -52,7 +52,7 @@ Nesta etapa iremos colocar o caminho do XML que queremos filtrar
 ```
 XPath Expression: /empregados/empregado[estado = 'SP']
 ```
-
+![Fluxo](imagens/Screenshot_10.png)
 
 ### Arquivo do empregados.xml
 
@@ -162,11 +162,6 @@ XPath Expression: /empregados/empregado[estado = 'SP']
 </empregados>
 
 ```
-![Fluxo](imagens/Screenshot_10.png)
-
-
-
-###
 ![Fluxo](imagens/Screenshot_11.png)
 
 ### Selecionando Conector
