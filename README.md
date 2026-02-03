@@ -57,6 +57,9 @@ Nesta etapa iremos colocar o caminho do XML que queremos filtrar
 ```
 XPath Expression: /empregados/empregado[estado = 'SP']
 ```
+📌 Importante:
+XPath não transforma XML, ele apenas seleciona nós.
+
 ![Fluxo](imagens/Screenshot_10.png)
 
 ### Arquivo do empregados.xml
