@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<empregados>
+    <empregado>
+        <idUsuario>1001</idUsuario>
+        <dataInicio>2016-03-26</dataInicio>
+        <dataFim>2099-03-26</dataFim>
+        <nome>Kleber</nome>
+        <sobrenome>Silva</sobrenome>
+        <tipoEmprego>CLT</tipoEmprego>
+        <pais>BR</pais>
+        <estado>SP</estado>
+    </empregado>
+    <empregado>
+        <idUsuario>1002</idUsuario>
+        <dataInicio>2018-01-15</dataInicio>
+        <dataFim>2099-01-15</dataFim>
+        <nome>Ana</nome>
+        <sobrenome>Santos</sobrenome>
+        <tipoEmprego>CLT</tipoEmprego>
+        <pais>BR</pais>
+        <estado>RJ</estado>
+    </empregado>
+    <empregado>
+        <idUsuario>1010</idUsuario>
+        <dataInicio>2022-07-18</dataInicio>
+        <dataFim>2099-07-18</dataFim>
+        <nome>Juliana</nome>
+        <sobrenome>Ferreira</sobrenome>
+        <tipoEmprego>PJ</tipoEmprego>
+        <pais>BR</pais>
+        <estado>SP</estado>
+    </empregado>
+</empregados>
