@@ -34,7 +34,7 @@ Precisávamos:1️⃣ Classificar todos os dados dos funcionários que moram em 
 ### Removendo o Sender do nosso iFlow
 ![Fluxo](imagens/Screenshot_6.png)
 
-### emovendo o Receiver do nosso iFlow
+### Removendo o Receiver do nosso iFlow
 ![Fluxo](imagens/Screenshot_7.png)
 
 ### Adicionando o Filter ao nosso Iflow
