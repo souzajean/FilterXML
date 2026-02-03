@@ -12,11 +12,11 @@ Na realidade, o XPath apenas seleciona os nós que atendem à condição definid
 
 Neste artigo, vamos entender:
 
-Por que o resultado do filtro XPath pode ser diferente do esperado
+* Por que o resultado do filtro XPath pode ser diferente do esperado
 
-Como o XPath realmente funciona no CPI
+* Como o XPath realmente funciona no CPI
 
-Qual é a forma correta de filtrar e tratar os dados dentro de um iFlow
+* Qual é a forma correta de filtrar e tratar os dados dentro de um iFlow
 
 🎯 Objetivo do cenário
 
