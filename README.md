@@ -172,7 +172,6 @@ Para adicionar nosso XML
 ![Fluxo](imagens/Screenshot_13.png)
 
 ### Adicionando o conteúdo do empregados.xml
-Não vamos precisar do Start nesse momento, vamos adicionar o Timer mais para frente.
 ![Fluxo](imagens/Screenshot_14.png)
 
 ### Clicar no Conector e adicionar o End Simulação
@@ -184,11 +183,38 @@ Não vamos precisar do Start nesse momento, vamos adicionar o Timer mais para fr
 ### Clicar no Envelope para ver o resultado
 ![Fluxo](imagens/Screenshot_17.png)
 
-### 
+### Resultado com o filtro do XML
+Com todos os dados que são do estado de SP
 ![Fluxo](imagens/Screenshot_18.png)
 
-### 
+### XML do resultado
 ![Fluxo](imagens/Screenshot_19.png)
+
+``` Resultado do Filtro de SP
+<?xml version='1.0' encoding='UTF-8'?>
+<empregados>
+    <empregado>
+        <idUsuario>1001</idUsuario>
+        <dataInicio>2016-03-26</dataInicio>
+        <dataFim>2099-03-26</dataFim>
+        <nome>Kleber</nome>
+        <sobrenome>Silva</sobrenome>
+        <tipoEmprego>CLT</tipoEmprego>
+        <pais>BR</pais>
+        <estado>SP</estado>
+    </empregado>
+    <empregado>
+        <idUsuario>1010</idUsuario>
+        <dataInicio>2022-07-18</dataInicio>
+        <dataFim>2099-07-18</dataFim>
+        <nome>Juliana</nome>
+        <sobrenome>Ferreira</sobrenome>
+        <tipoEmprego>PJ</tipoEmprego>
+        <pais>BR</pais>
+        <estado>SP</estado>
+    </empregado>
+</empregados>
+```
 
 ### 
 ![Fluxo](imagens/Screenshot_20.png)
