@@ -5,7 +5,8 @@ SAP BTP CPI - FILTER
 
 ## Filter dados no XML
 
-Este iFlow foi desenvolvido no SAP BTP – Integration Suite (Cloud Integration) com o objetivo de filtrar e transformar os dados. dados para atender às necessidades do negócio.Aqui está um requisito real que abordamos recentemente no SAP CPI 
+Este iFlow foi desenvolvido no SAP BTP – Integration Suite (Cloud Integration) com o objetivo de filtrar e transformar os dados. dados para atender às necessidades do negócio.Aqui está um requisito real que abordamos recentemente no SAP CPI.
+
 Visão geral dos requisitos:
 
 Precisávamos:1️⃣ Classificar todos os dados dos funcionários que moram em SP. 
